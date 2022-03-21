@@ -232,4 +232,5 @@ public class PaticaStore {
     public void setNoteBooks(List<NoteBook> noteBooks) {
         this.noteBooks = noteBooks;
     }
+    
 }
